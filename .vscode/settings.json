@@ -4,6 +4,7 @@
         "limits": "cpp",
         "ios": "cpp",
         "xiosbase": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "algorithm": "cpp"
     }
 }
