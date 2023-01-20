@@ -1,3 +1,5 @@
+# 8/1/2023
+
 # Your code here
 def solve(n,l):
     m=abs(sum(l[0:1])-sum(l[1:]))
