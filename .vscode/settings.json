@@ -8,6 +8,8 @@
         "algorithm": "cpp",
         "initializer_list": "cpp",
         "type_traits": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp"
     }
 }
