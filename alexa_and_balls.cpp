@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-    int a, b, c, d;
+    long a, b, c, d;
     cin >> a >> b >> c >> d;
-    int ans=0;
     long res=0;
+    int ans=0;
     if (b>=c*d)
     {
         ans=-1;
@@ -15,8 +15,8 @@ int main()
     {
         while (res*d<a)
         {
-            a = a + b;
-            res=res+c;
+            a += b;
+            res+=c;
             ans++;
         }
     }
