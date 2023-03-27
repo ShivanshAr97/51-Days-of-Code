@@ -12,6 +12,7 @@
         "iosfwd": "cpp",
         "xlocale": "cpp",
         "utility": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp"
     }
 }
