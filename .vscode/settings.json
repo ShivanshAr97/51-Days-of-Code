@@ -13,6 +13,9 @@
         "xlocale": "cpp",
         "utility": "cpp",
         "iostream": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp"
     }
 }
