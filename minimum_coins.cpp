@@ -1,25 +1,15 @@
-#include <iostream>
+#include <bits/stdc++.h> // header file includes every Standard library
 using namespace std;
 
-int main()
-{
-    long long a, b;
-    cin >> a >> b;
-
-    if (a == 0)
-    {
-        cout << 1;
+int main() {
+	long long a,b;
+    cin>>a>>b;
+    if(a==0){
+        cout<<1<<endl;
     }
-
-    if (b == 0)
-    {
-        cout << 2;
-    }
-
-    else
-    {
-        cout << a + 2 * b + 1;
-    }
+    else{
+        cout<<a+2*b+1<<endl;
+        }
 
     return 0;
 }
